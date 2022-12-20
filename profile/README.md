@@ -1,6 +1,7 @@
 # Sunny Dog Games
-## Hi there 👋
-First Draft of the Read-Me
+Programmers:
+- CeleryMan15
+- pants721
 <!--
 
 **Here are some ideas to get you started:**
